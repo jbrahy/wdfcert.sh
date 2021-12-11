@@ -19,3 +19,7 @@ Finally: Why wdfcert? It's something I do for 'throwaway' one-off
 tools: With the name of Wolf it's a common typographical failure
 of various fonts that merges the **ol** into a **d** so
 **wolf** -> **wdf**
+
+
+# requirements
+jq - https://github.com/stedolan/jq
